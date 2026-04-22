@@ -1,2 +1,2 @@
 # Learn-GitHub
-i can read github.
+I can learn GitHub.
